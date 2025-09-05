@@ -2,7 +2,12 @@
 title: "l'autorité de la Bible"
 author: "granPiero"
 date: "2025-09-04"
-categories: [news]
+categories: [théologie]
+format: 
+  html:
+    comments:
+      utterances: 
+        repo: "fischerpj/goodwave"
 ---
 
 cet article afin d'établir l'autorité de la Bible qui équivaut à l'incontestable autorité du Dieu, qui ***parle ainsi*** pour créer tout l'univers et convaincre ses serviteurs.
