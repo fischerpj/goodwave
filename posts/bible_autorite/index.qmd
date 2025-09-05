@@ -1,0 +1,18 @@
+---
+title: "l'autorité de la Bible"
+author: "granPiero"
+date: "2025-09-04"
+categories: [news]
+---
+
+cet article afin d'établir l'autorité de la Bible qui équivaut à l'incontestable autorité du Dieu, qui ***parle ainsi*** pour créer tout l'univers et convaincre ses serviteurs.
+
+![](isaiah_roll.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+Sources:
+
+[Bible Authority](https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/the-bible-authority-of.html "Baker's")
+
+{{< pdf Bible_Authority_Baker.pdf width=100% height=600 >}}
